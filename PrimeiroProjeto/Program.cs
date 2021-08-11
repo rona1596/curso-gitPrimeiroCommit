@@ -9,8 +9,6 @@ namespace PrimeiroProjeto
         static void Main(string[] args)
 
         {
-            #region[Apenas um teste no commit 10082021]
-            #endregion
 
             #region[DateTimeKind - ISO 8601]
 
@@ -27,7 +25,7 @@ namespace PrimeiroProjeto
             //Console.WriteLine("d2 Kind: " + d2.Kind);
             //Console.WriteLine("d2 to Local: " + d2.ToLocalTime());
             //Console.WriteLine("d2 to Utc: " + d2.ToUniversalTime());
-            
+
             //Console.WriteLine();
 
             //Console.WriteLine(d2.ToString("yyyy-MM-ddTHH:mm:ssZ")); // cuidado!
